@@ -217,7 +217,7 @@ input[type=submit] {
 }
 
 /* Media query . Do each size separatly with separate styles highest to lowest  */
-@media (max-width: 980px, 768px ,640px) {
+@media (max-width: 980px) {
 .container {
   width: auto;
   padding: 20px;
