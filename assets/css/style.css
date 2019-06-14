@@ -233,3 +233,16 @@ input[type=submit] {
 }
    
 }
+
+@media only screen and (max-width: 640px) {
+  .auth-image {
+    background-color: green;
+  }
+  img {
+    width: 100%;
+  }
+
+  body{
+    background-color: #4aaaa5;
+  }
+} 
